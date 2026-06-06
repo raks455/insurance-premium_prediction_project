@@ -16,4 +16,4 @@ A FastAPI-based Machine Learning API that predicts insurance premium categories 
 - **Model Persistence**: Pickle / Joblib
 - **Validation**: Pydantic v2
 
-## Project Structure
+
